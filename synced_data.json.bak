@@ -87,6 +87,10 @@
     "108834184": {
       "tag_name": "v4.1.0_CE_BP2",
       "fully_synced_at": "2025-07-26 10:27:59.861966"
+    },
+    "114770118": {
+      "tag_name": "v4.2.0_CE_BETA",
+      "fully_synced_at": "2025-07-26 10:29:36.911191"
     }
   },
   "assets": {
@@ -2668,6 +2672,16 @@
       "SourceCode_v4.2.0_CE_BETA.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 10:28:21.687110"
+      }
+    },
+    "v4.1.0_CE_BP3": {
+      "SourceCode_v4.1.0_CE_BP3.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:29:49.544334"
+      },
+      "SourceCode_v4.1.0_CE_BP3.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:29:56.798726"
       }
     }
   }
