@@ -3,10 +3,65 @@
     "45329591": {
       "tag_name": "v3.1.0_CE_BP1",
       "fully_synced_at": "2025-07-26 10:05:50.504395"
+    },
+    "47602318": {
+      "tag_name": "v3.1.0_CE_BP2",
+      "fully_synced_at": "2025-07-26 10:06:05.750422"
     }
   },
   "assets": {
-    "45329591": {}
+    "45329591": {},
+    "47602318": {},
+    "51221041": {
+      "oceanbase-ce-3.1.1-1.el7.x86_64.rpm_48452604": {
+        "name": "oceanbase-ce-3.1.1-1.el7.x86_64.rpm",
+        "size": 48452604,
+        "updated_at": "2025-07-26T10:06:24+00:00",
+        "synced_at": "2025-07-26 10:06:25.001544"
+      },
+      "oceanbase-ce-3.1.1-1.el8.x86_64.rpm_48484040": {
+        "name": "oceanbase-ce-3.1.1-1.el8.x86_64.rpm",
+        "size": 48484040,
+        "updated_at": "2025-07-26T10:06:28+00:00",
+        "synced_at": "2025-07-26 10:06:28.290818"
+      },
+      "oceanbase-ce-devel-3.1.1-1.el7.x86_64.rpm_57132552": {
+        "name": "oceanbase-ce-devel-3.1.1-1.el7.x86_64.rpm",
+        "size": 57132552,
+        "updated_at": "2025-07-26T10:06:31+00:00",
+        "synced_at": "2025-07-26 10:06:31.741863"
+      },
+      "oceanbase-ce-devel-3.1.1-1.el8.x86_64.rpm_251171056": {
+        "name": "oceanbase-ce-devel-3.1.1-1.el8.x86_64.rpm",
+        "size": 251171056,
+        "updated_at": "2025-07-26T10:06:40+00:00",
+        "synced_at": "2025-07-26 10:06:40.833283"
+      },
+      "oceanbase-ce-libs-3.1.1-1.el7.x86_64.rpm_169632": {
+        "name": "oceanbase-ce-libs-3.1.1-1.el7.x86_64.rpm",
+        "size": 169632,
+        "updated_at": "2025-07-26T10:06:42+00:00",
+        "synced_at": "2025-07-26 10:06:42.184184"
+      },
+      "oceanbase-ce-libs-3.1.1-1.el8.x86_64.rpm_508420": {
+        "name": "oceanbase-ce-libs-3.1.1-1.el8.x86_64.rpm",
+        "size": 508420,
+        "updated_at": "2025-07-26T10:06:43+00:00",
+        "synced_at": "2025-07-26 10:06:43.641477"
+      },
+      "oceanbase-ce-utils-3.1.1-1.el7.x86_64.rpm_48402720": {
+        "name": "oceanbase-ce-utils-3.1.1-1.el7.x86_64.rpm",
+        "size": 48402720,
+        "updated_at": "2025-07-26T10:06:46+00:00",
+        "synced_at": "2025-07-26 10:06:46.808986"
+      },
+      "oceanbase-ce-utils-3.1.1-1.el8.x86_64.rpm_48419160": {
+        "name": "oceanbase-ce-utils-3.1.1-1.el8.x86_64.rpm",
+        "size": 48419160,
+        "updated_at": "2025-07-26T10:06:49+00:00",
+        "synced_at": "2025-07-26 10:06:49.712649"
+      }
+    }
   },
   "source_codes": {
     "v3.1.0_CE_BP1": {
@@ -27,6 +82,16 @@
       "SourceCode_v3.1.0_CE_BP2.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 10:06:05.348665"
+      }
+    },
+    "v3.1.1_CE": {
+      "SourceCode_v3.1.1_CE.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:06:15.849452"
+      },
+      "SourceCode_v3.1.1_CE.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:06:21.478818"
       }
     }
   }
