@@ -219,6 +219,10 @@
     "174666003": {
       "tag_name": "v4.2.4_CE_HF1",
       "fully_synced_at": "2025-07-26 11:21:13.946454"
+    },
+    "177024545": {
+      "tag_name": "v4.2.1_CE_BP9",
+      "fully_synced_at": "2025-07-26 11:23:06.810363"
     }
   },
   "assets": {
@@ -6806,6 +6810,176 @@
         "updated_at": "2025-07-26T11:21:13+00:00",
         "synced_at": "2025-07-26 11:21:13.906892"
       }
+    },
+    "177024545": {
+      "oceanbase-ce-4.2.1.9-109000032024092015.el7.aarch64.rpm_85228388": {
+        "name": "oceanbase-ce-4.2.1.9-109000032024092015.el7.aarch64.rpm",
+        "size": 85228388,
+        "updated_at": "2025-07-26T11:21:40+00:00",
+        "synced_at": "2025-07-26 11:21:41.029644"
+      },
+      "oceanbase-ce-4.2.1.9-109000032024092015.el7.x86_64.rpm_104343888": {
+        "name": "oceanbase-ce-4.2.1.9-109000032024092015.el7.x86_64.rpm",
+        "size": 104343888,
+        "updated_at": "2025-07-26T11:21:45+00:00",
+        "synced_at": "2025-07-26 11:21:46.160595"
+      },
+      "oceanbase-ce-4.2.1.9-109000032024092015.el8.aarch64.rpm_85275136": {
+        "name": "oceanbase-ce-4.2.1.9-109000032024092015.el8.aarch64.rpm",
+        "size": 85275136,
+        "updated_at": "2025-07-26T11:21:50+00:00",
+        "synced_at": "2025-07-26 11:21:50.492947"
+      },
+      "oceanbase-ce-4.2.1.9-109000032024092015.el8.x86_64.rpm_104347920": {
+        "name": "oceanbase-ce-4.2.1.9-109000032024092015.el8.x86_64.rpm",
+        "size": 104347920,
+        "updated_at": "2025-07-26T11:21:55+00:00",
+        "synced_at": "2025-07-26 11:21:55.224566"
+      },
+      "oceanbase-ce-4.2.1.9-109000032024092015.nonlse.el7.aarch64.rpm_85297780": {
+        "name": "oceanbase-ce-4.2.1.9-109000032024092015.nonlse.el7.aarch64.rpm",
+        "size": 85297780,
+        "updated_at": "2025-07-26T11:21:59+00:00",
+        "synced_at": "2025-07-26 11:21:59.373534"
+      },
+      "oceanbase-ce-4.2.1.9-109000032024092015.nonlse.el8.aarch64.rpm_85320288": {
+        "name": "oceanbase-ce-4.2.1.9-109000032024092015.nonlse.el8.aarch64.rpm",
+        "size": 85320288,
+        "updated_at": "2025-07-26T11:22:03+00:00",
+        "synced_at": "2025-07-26 11:22:03.427075"
+      },
+      "oceanbase-ce-cdc-4.2.1.9-109000022024092015.el7.aarch64.rpm_93820816": {
+        "name": "oceanbase-ce-cdc-4.2.1.9-109000022024092015.el7.aarch64.rpm",
+        "size": 93820816,
+        "updated_at": "2025-07-26T11:22:08+00:00",
+        "synced_at": "2025-07-26 11:22:08.583936"
+      },
+      "oceanbase-ce-cdc-4.2.1.9-109000022024092015.el7.x86_64.rpm_112801616": {
+        "name": "oceanbase-ce-cdc-4.2.1.9-109000022024092015.el7.x86_64.rpm",
+        "size": 112801616,
+        "updated_at": "2025-07-26T11:22:13+00:00",
+        "synced_at": "2025-07-26 11:22:13.872482"
+      },
+      "oceanbase-ce-cdc-4.2.1.9-109000022024092015.el8.aarch64.rpm_95162168": {
+        "name": "oceanbase-ce-cdc-4.2.1.9-109000022024092015.el8.aarch64.rpm",
+        "size": 95162168,
+        "updated_at": "2025-07-26T11:22:18+00:00",
+        "synced_at": "2025-07-26 11:22:18.494092"
+      },
+      "oceanbase-ce-cdc-4.2.1.9-109000022024092015.el8.x86_64.rpm_114135516": {
+        "name": "oceanbase-ce-cdc-4.2.1.9-109000022024092015.el8.x86_64.rpm",
+        "size": 114135516,
+        "updated_at": "2025-07-26T11:22:23+00:00",
+        "synced_at": "2025-07-26 11:22:24.112177"
+      },
+      "oceanbase-ce-libs-4.2.1.9-109000032024092015.el7.aarch64.rpm_147368": {
+        "name": "oceanbase-ce-libs-4.2.1.9-109000032024092015.el7.aarch64.rpm",
+        "size": 147368,
+        "updated_at": "2025-07-26T11:22:25+00:00",
+        "synced_at": "2025-07-26 11:22:25.518378"
+      },
+      "oceanbase-ce-libs-4.2.1.9-109000032024092015.el7.x86_64.rpm_158316": {
+        "name": "oceanbase-ce-libs-4.2.1.9-109000032024092015.el7.x86_64.rpm",
+        "size": 158316,
+        "updated_at": "2025-07-26T11:22:26+00:00",
+        "synced_at": "2025-07-26 11:22:26.857597"
+      },
+      "oceanbase-ce-libs-4.2.1.9-109000032024092015.el8.aarch64.rpm_154368": {
+        "name": "oceanbase-ce-libs-4.2.1.9-109000032024092015.el8.aarch64.rpm",
+        "size": 154368,
+        "updated_at": "2025-07-26T11:22:28+00:00",
+        "synced_at": "2025-07-26 11:22:28.233515"
+      },
+      "oceanbase-ce-libs-4.2.1.9-109000032024092015.el8.x86_64.rpm_163156": {
+        "name": "oceanbase-ce-libs-4.2.1.9-109000032024092015.el8.x86_64.rpm",
+        "size": 163156,
+        "updated_at": "2025-07-26T11:22:29+00:00",
+        "synced_at": "2025-07-26 11:22:29.647481"
+      },
+      "oceanbase-ce-libs-4.2.1.9-109000032024092015.nonlse.el7.aarch64.rpm_147396": {
+        "name": "oceanbase-ce-libs-4.2.1.9-109000032024092015.nonlse.el7.aarch64.rpm",
+        "size": 147396,
+        "updated_at": "2025-07-26T11:22:30+00:00",
+        "synced_at": "2025-07-26 11:22:30.993913"
+      },
+      "oceanbase-ce-libs-4.2.1.9-109000032024092015.nonlse.el8.aarch64.rpm_154400": {
+        "name": "oceanbase-ce-libs-4.2.1.9-109000032024092015.nonlse.el8.aarch64.rpm",
+        "size": 154400,
+        "updated_at": "2025-07-26T11:22:32+00:00",
+        "synced_at": "2025-07-26 11:22:32.338142"
+      },
+      "oceanbase-ce-sql-parser-4.2.1.9-109000032024092015.el7.aarch64.rpm_988784": {
+        "name": "oceanbase-ce-sql-parser-4.2.1.9-109000032024092015.el7.aarch64.rpm",
+        "size": 988784,
+        "updated_at": "2025-07-26T11:22:33+00:00",
+        "synced_at": "2025-07-26 11:22:33.792748"
+      },
+      "oceanbase-ce-sql-parser-4.2.1.9-109000032024092015.el7.x86_64.rpm_1032172": {
+        "name": "oceanbase-ce-sql-parser-4.2.1.9-109000032024092015.el7.x86_64.rpm",
+        "size": 1032172,
+        "updated_at": "2025-07-26T11:22:35+00:00",
+        "synced_at": "2025-07-26 11:22:35.252189"
+      },
+      "oceanbase-ce-sql-parser-4.2.1.9-109000032024092015.el8.aarch64.rpm_993164": {
+        "name": "oceanbase-ce-sql-parser-4.2.1.9-109000032024092015.el8.aarch64.rpm",
+        "size": 993164,
+        "updated_at": "2025-07-26T11:22:36+00:00",
+        "synced_at": "2025-07-26 11:22:36.788348"
+      },
+      "oceanbase-ce-sql-parser-4.2.1.9-109000032024092015.el8.x86_64.rpm_1036604": {
+        "name": "oceanbase-ce-sql-parser-4.2.1.9-109000032024092015.el8.x86_64.rpm",
+        "size": 1036604,
+        "updated_at": "2025-07-26T11:22:38+00:00",
+        "synced_at": "2025-07-26 11:22:38.207885"
+      },
+      "oceanbase-ce-sql-parser-4.2.1.9-109000032024092015.nonlse.el7.aarch64.rpm_988936": {
+        "name": "oceanbase-ce-sql-parser-4.2.1.9-109000032024092015.nonlse.el7.aarch64.rpm",
+        "size": 988936,
+        "updated_at": "2025-07-26T11:22:39+00:00",
+        "synced_at": "2025-07-26 11:22:39.740918"
+      },
+      "oceanbase-ce-sql-parser-4.2.1.9-109000032024092015.nonlse.el8.aarch64.rpm_993312": {
+        "name": "oceanbase-ce-sql-parser-4.2.1.9-109000032024092015.nonlse.el8.aarch64.rpm",
+        "size": 993312,
+        "updated_at": "2025-07-26T11:22:41+00:00",
+        "synced_at": "2025-07-26 11:22:41.286313"
+      },
+      "oceanbase-ce-utils-4.2.1.9-109000032024092015.el7.aarch64.rpm_75245372": {
+        "name": "oceanbase-ce-utils-4.2.1.9-109000032024092015.el7.aarch64.rpm",
+        "size": 75245372,
+        "updated_at": "2025-07-26T11:22:45+00:00",
+        "synced_at": "2025-07-26 11:22:45.456622"
+      },
+      "oceanbase-ce-utils-4.2.1.9-109000032024092015.el7.x86_64.rpm_92304436": {
+        "name": "oceanbase-ce-utils-4.2.1.9-109000032024092015.el7.x86_64.rpm",
+        "size": 92304436,
+        "updated_at": "2025-07-26T11:22:49+00:00",
+        "synced_at": "2025-07-26 11:22:49.957096"
+      },
+      "oceanbase-ce-utils-4.2.1.9-109000032024092015.el8.aarch64.rpm_75257864": {
+        "name": "oceanbase-ce-utils-4.2.1.9-109000032024092015.el8.aarch64.rpm",
+        "size": 75257864,
+        "updated_at": "2025-07-26T11:22:53+00:00",
+        "synced_at": "2025-07-26 11:22:53.832259"
+      },
+      "oceanbase-ce-utils-4.2.1.9-109000032024092015.el8.x86_64.rpm_92284092": {
+        "name": "oceanbase-ce-utils-4.2.1.9-109000032024092015.el8.x86_64.rpm",
+        "size": 92284092,
+        "updated_at": "2025-07-26T11:22:58+00:00",
+        "synced_at": "2025-07-26 11:22:58.628073"
+      },
+      "oceanbase-ce-utils-4.2.1.9-109000032024092015.nonlse.el7.aarch64.rpm_75276188": {
+        "name": "oceanbase-ce-utils-4.2.1.9-109000032024092015.nonlse.el7.aarch64.rpm",
+        "size": 75276188,
+        "updated_at": "2025-07-26T11:23:02+00:00",
+        "synced_at": "2025-07-26 11:23:02.751488"
+      },
+      "oceanbase-ce-utils-4.2.1.9-109000032024092015.nonlse.el8.aarch64.rpm_75265624": {
+        "name": "oceanbase-ce-utils-4.2.1.9-109000032024092015.nonlse.el8.aarch64.rpm",
+        "size": 75265624,
+        "updated_at": "2025-07-26T11:23:06+00:00",
+        "synced_at": "2025-07-26 11:23:06.785760"
+      }
     }
   },
   "source_codes": {
@@ -7357,6 +7531,16 @@
       "SourceCode_v4.2.4_CE_HF1.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 11:19:25.113764"
+      }
+    },
+    "v4.2.1_CE_BP9": {
+      "SourceCode_v4.2.1_CE_BP9.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 11:21:28.267663"
+      },
+      "SourceCode_v4.2.1_CE_BP9.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 11:21:36.372236"
       }
     }
   }
