@@ -143,6 +143,10 @@
     "134326334": {
       "tag_name": "v4.2.1_CE_BP2_HF1",
       "fully_synced_at": "2025-07-26 10:45:53.879779"
+    },
+    "135507912": {
+      "tag_name": "v4.2.1_CE_BP3",
+      "fully_synced_at": "2025-07-26 10:47:33.844912"
     }
   },
   "assets": {
@@ -4474,6 +4478,16 @@
       "SourceCode_v4.2.1_CE_BP3.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 10:46:15.620583"
+      }
+    },
+    "v4.2.2_CE": {
+      "SourceCode_v4.2.2_CE.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:47:49.662294"
+      },
+      "SourceCode_v4.2.2_CE.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:47:59.349521"
       }
     }
   }

@@ -147,6 +147,10 @@
     "135507912": {
       "tag_name": "v4.2.1_CE_BP3",
       "fully_synced_at": "2025-07-26 10:47:33.844912"
+    },
+    "137388572": {
+      "tag_name": "v4.2.2_CE",
+      "fully_synced_at": "2025-07-26 10:47:59.741974"
     }
   },
   "assets": {
@@ -4107,7 +4111,8 @@
         "updated_at": "2025-07-26T10:47:33+00:00",
         "synced_at": "2025-07-26 10:47:33.822520"
       }
-    }
+    },
+    "137388572": {}
   },
   "source_codes": {
     "v3.1.0_CE_BP1": {
@@ -4478,6 +4483,16 @@
       "SourceCode_v4.2.1_CE_BP3.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 10:46:15.620583"
+      }
+    },
+    "v4.2.2_CE": {
+      "SourceCode_v4.2.2_CE.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:47:49.662294"
+      },
+      "SourceCode_v4.2.2_CE.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:47:59.349521"
       }
     }
   }
