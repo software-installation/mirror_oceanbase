@@ -1,0 +1,23 @@
+{
+  "releases": {
+    "45329591": {
+      "tag_name": "v3.1.0_CE_BP1",
+      "fully_synced_at": "2025-07-26 10:05:50.504395"
+    }
+  },
+  "assets": {
+    "45329591": {}
+  },
+  "source_codes": {
+    "v3.1.0_CE_BP1": {
+      "SourceCode_v3.1.0_CE_BP1.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:05:44.933256"
+      },
+      "SourceCode_v3.1.0_CE_BP1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:05:50.148926"
+      }
+    }
+  }
+}
